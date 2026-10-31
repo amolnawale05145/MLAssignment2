@@ -100,7 +100,7 @@ ml_assignment2_project/
 4. Include a screenshot you personally captured from BITS Virtual Lab in the final PDF.
 5. Open the GitHub link and live app link in a private/incognito browser window to confirm they are accessible.
 
-## Submission links (fill these in before exporting to PDF)
+## Submission links
 - GitHub repository: **https://github.com/amolnawale05145/MLAssignment2.git/**
 - Live Streamlit app: **https://ml-classification-assignment.streamlit.app/**
 - BITS Virtual Lab screenshot: **[INSERT YOUR OWN SCREENSHOT]**
