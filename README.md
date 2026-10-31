@@ -18,7 +18,7 @@ Implement and compare five supervised classification algorithms on one public da
 Dataset source: UCI Machine Learning Repository, Breast Cancer Wisconsin (Diagnostic): https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 ## c. GitHub Repository Link
-**Add your repository URL here after creating and pushing the repository:** `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`
+**Add your repository URL here after creating and pushing the repository:** `https://github.com/amolnawale05145/MLAssignment2.git`
 
 ## d. Models used
 
@@ -101,6 +101,6 @@ ml_assignment2_project/
 5. Open the GitHub link and live app link in a private/incognito browser window to confirm they are accessible.
 
 ## Submission links (fill these in before exporting to PDF)
-- GitHub repository: **[ADD YOUR REPOSITORY URL]**
-- Live Streamlit app: **[ADD YOUR DEPLOYED APP URL]**
+- GitHub repository: **https://github.com/amolnawale05145/MLAssignment2.git/**
+- Live Streamlit app: **https://ml-classification-assignment.streamlit.app/**
 - BITS Virtual Lab screenshot: **[INSERT YOUR OWN SCREENSHOT]**
